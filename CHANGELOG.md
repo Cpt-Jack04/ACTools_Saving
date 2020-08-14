@@ -2,6 +2,8 @@
 <p>All notable changes to this project will be documented in this file.</p>
 
 ## [Unreleased Changes]
+
+### Changes:
 <ul>
 	<li>SaveSystem.cs was renamed to SaveData.cs.</il>
 	<li>Method SaveDataToBinaryFile in SaveData.cs was renamed to ToBinaryFile.</il>
