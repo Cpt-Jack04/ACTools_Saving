@@ -2,6 +2,12 @@
 <p>All notable changes to this project will be documented in this file.</p>
 
 ## [Unreleased Changes]
+<ul>
+	<li> </il>
+</ul>
+<hr/>
+
+## [1.0.1] - 2020-09-02
 
 ### Changes:
 <ul>
