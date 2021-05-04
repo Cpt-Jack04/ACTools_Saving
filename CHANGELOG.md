@@ -7,6 +7,35 @@
 </ul>
 <hr/>
 
+## [1.2.0] - 2021-05-04
+
+### Addition:
+<ul>
+	<li>BinaryFormatterUtility.cs created to manage the new BinaryFormatter.</il>
+	<li>BoundsSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>BoundsIntSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>ColorSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>Color32SerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>QuaternionSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>RectSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>RectIntSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>Vector2SerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>Vector3SerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>Vector4SerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>Vector2IntSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>Vector3IntSerializationSurrogate.cs created to be used in the new BinaryFormatter.</il>
+	<li>IDictionarySerializationSurrogate.cs created to be used in the new BinaryFormatter. </il>
+</ul>
+
+### Changes:
+<ul>
+	<li>SaveData.cs updated to use new BinaryFormatter and to allow for additional saves.</il>
+	<li>LoadData.cs updated to use new BinaryFormatter and to allow for additional saves.</il>
+	<li>Updated ACTools_Saving.md.</il>
+	<li>Updated package.json.</il>
+</ul>
+<hr/>
+
 ## [1.0.1] - 2020-09-02
 
 ### Changes:
