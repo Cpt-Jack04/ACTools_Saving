@@ -1,6 +1,6 @@
 {
   "name": "com.actools.saving",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "displayName": "ACTools: Saving",
   "description": "This package is a library for saving data.",
   "unity": "2019.4",
